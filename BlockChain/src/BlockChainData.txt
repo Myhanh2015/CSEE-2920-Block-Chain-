@@ -1,0 +1,144 @@
+Date: 03/08/2018
+Time: 00:00
+Moisture Level: 70%
+Water Level: 80%
+Temperature: 70 F 
+---
+Date: 03/08/2018
+Time: 01:00
+Moisture Level: 67%
+Water Level: 80%
+Temperature: 70 F
+---
+Date: 03/08/2018
+Time: 02:00
+Moisture Level: 63%
+Water Level: 80%
+Temperature: 69 F
+---
+Date: 03/08/2018
+Time: 03:00
+Moisture Level: 58%
+Water Level: 80%
+Temperature: 68 F
+---
+Date: 03/08/2018
+Time: 04:00
+Moisture Level: 53%
+Water Level: 80%
+Temperature: 70 F
+---
+Date: 03/08/2018
+Time: 05:00
+Moisture Level: 48%
+Water Level: 80%
+Temperature: 70 F
+---
+Date: 03/08/2018
+Time: 06:00
+Moisture Level: 41%
+Water Level: 80%
+Temperature: 71 F
+---
+Date: 03/08/2018
+Time: 07:00
+Moisture Level: 35%
+Water Level: 80%
+Temperature: 72 F
+---
+Date: 03/08/2018
+Time: 08:00
+Moisture Level: 75%
+Water Level: 65%
+Temperature: 71 F
+---
+Date: 03/08/2018
+Time: 09:00
+Moisture Level: 71%
+Water Level: 65%
+Temperature: 73 F
+---
+Date: 03/08/2018
+Time: 10:00
+Moisture Level: 65%
+Water Level: 65%
+Temperature: 70 F
+---
+Date: 03/08/2018
+Time: 11:00
+Moisture Level: 59%
+Water Level: 65%
+Temperature: 72 F
+---
+Date: 03/08/2018
+Time: 12:00
+Moisture Level: 50%
+Water Level: 65%
+Temperature: 71 F
+---
+Date: 03/08/2018
+Time: 13:00
+Moisture Level: 43%
+Water Level: 65%
+Temperature: 69 F
+---
+Date: 03/08/2018
+Time: 14:00
+Moisture Level: 35%
+Water Level: 65%
+Temperature: 68 F 
+---
+Date: 03/08/2018
+Time: 15:00
+Moisture Level: 75%
+Water Level: 45%
+Temperature: 68 F
+---
+Date: 03/08/2018
+Time: 16:00
+Moisture Level: 73%
+Water Level: 45%
+Temperature: 70 F
+---
+Date: 03/08/2018
+Time: 17:00
+Moisture Level: 71%
+Water Level: 45%
+Temperature: 71 F
+---
+Date: 03/08/2018
+Time: 18:00
+Moisture Level: 65%
+Water Level: 45%
+Temperature: 72 F
+---
+Date: 03/08/2018
+Time: 19:00
+Moisture Level: 64% 
+Water Level: 45%
+Temperature: 72 F
+---
+Date: 03/08/2018
+Time: 20:00
+Moisture Level: 62%
+Water Level: 45%
+Temperature: 71 F
+---
+Date: 03/08/2018
+Time: 21:00
+Moisture Level: 59%
+Water Level: 45%
+Temperature: 73 F
+---
+Date: 03/08/2018
+Time: 22:00
+Moisture Level: 55%
+Water Level: 45%
+Temperature: 72 F
+---
+Date: 03/08/2018
+Time: 23:00
+Moisture Level: 51%
+Water Level: 45%
+Temperature: 73 F
+---
