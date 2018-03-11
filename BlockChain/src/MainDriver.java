@@ -73,6 +73,9 @@ public class MainDriver {
 			 System.out.print("Nonce:          "); System.out.println(blockchain.get(i).getNonce());
 			 System.out.println("--------------------------------------------------------------------------------------------");
 		 } // for
+		 
+		 System.out.print("\nNumber of blocks: ");
+		 System.out.println(counter/5);
 		
 		 // Determine if the Block Chain is valid
 		 if(isChainValid() == true){
